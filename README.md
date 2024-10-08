@@ -3,6 +3,6 @@
 
   <h2>My Tech Stack</h2>
   
-  [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,azure,react,ts,js,html,css,rabbitmq,redis,postgres,docker,kubernetes,githubactions)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=r,pug,py,matlab)](https://skillicons.dev)
 </div>
 
